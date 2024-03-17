@@ -1,5 +1,6 @@
 
-![+506 64832448  (1)](https://github.com/diegoTech14/diegoTech14/assets/85724318/5f4ce965-b367-430f-ba99-788d99b04fb3)
+![+506 64832448 ](https://github.com/diegoTech14/diegoTech14/assets/85724318/48f7b585-7b73-41fb-85c6-9e7b89915353)
+
 
 # Welcome to my GitHub 👨🏽‍💻
 
