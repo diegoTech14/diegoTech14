@@ -4,7 +4,7 @@
 
 # Welcome to my GitHub 👨🏽‍💻
 
-I'm  Diego Duarte Fernández, a jr. Developer who likes helping other programmers, talking about technology, animals and the ocean.I'm  a  proactive, kind  and  responsable  I have  communication  skills and ability to  work in a team. Also sometimes I'm perfectionistand many times take the initiative to do or create something. I really like to programming, solve a lot of challenges and get feedback to improve myself.
+I am Diego Duarte Fernández, a junior. Backend development oriented developer who likes to help other programmers. I am proactive, kind and responsible. I have communication skills and the ability to work in a team. I am also sometimes a perfectionist and many times I take the initiative to do or create something. I really like programming, solving many challenges and receiving feedback to improve.
 
 # 🎯Technologies
 
