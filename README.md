@@ -18,4 +18,4 @@ I'm Diego Duarte Fernández, a junior. Backend development oriented developer wh
 
 
 <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=diegoTech14&show_icons=true&theme=transparent&include_all_commits=true&count_private=true"/>
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=diegoTech14&show_icons=true&theme=transparent)0
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=diegoTech14&show_icons=true&theme=transparent)
