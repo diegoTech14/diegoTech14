@@ -4,7 +4,7 @@
 
 # [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=0AB79E&background=05300000&random=false&width=435&lines=Diego+Duarte+Fern%C3%A1ndez%F0%9F%91%A8%F0%9F%8F%BD%E2%80%8D%F0%9F%92%BB;Software+Developer)](https://git.io/typing-svg)
 
-I'm Diego Duarte Fernández, a junior. Backend development oriented developer who likes to help other programmers.I'm a proactive, kind and responsable I have communication skills and ability to work in a team. I usually try to optimize my solutions and many times take the initiative to create a personal project. I really like to programming, solve a lot of challenges and get feedback to improve myself.
+I'm Diego Duarte Fernández, a jr. Software Developer oriented to Backend development side with experience in Frontend side who likes to help other programmers.I'm a proactive, kind and responsable I have communication skills and ability to work in a team. I usually try to optimize my solutions and many times take the initiative to create a personal project. I really like to programming, solve a lot of challenges and get feedback to improve myself.
 
 # 🎯Technologies
 
