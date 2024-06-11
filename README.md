@@ -2,7 +2,7 @@
 ![+506 64832448 ](https://github.com/diegoTech14/diegoTech14/assets/85724318/48f7b585-7b73-41fb-85c6-9e7b89915353)
 
 
-# Diego Duarte Fernández
+# <center>Diego Duarte Fernández</center>
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=26B68E&center=true&vCenter=true&random=false&width=435&lines=Software+Developer;Oriented+to+backend+development)](https://git.io/typing-svg)
 #
 I'm Diego Duarte Fernández, a jr. Software Developer oriented to the Backend development side with experience in the Frontend side who likes to help other programmers. I'm proactive, kind, and responsible I have communication skills and the ability to work in a team. I usually optimize my solutions and take the initiative to create a personal project. I like programming, solving many challenges, and getting feedback to improve myself.
