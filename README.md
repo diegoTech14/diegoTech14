@@ -3,7 +3,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Diego Duarte Fernández</h1>
-<h3 align="center">[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=26B68E&center=true&vCenter=true&random=false&width=435&lines=Software+Developer;Oriented+to+backend+development)](https://git.io/typing-svg)</h3>
+<h3 align="center">A passionate Software Developer oriented to Backend Development</h3>
 #
 Jr. Software Developer oriented to the Backend development side with experience in the Frontend side who likes to help other programmers. I'm proactive, kind, and responsible I have communication skills and the ability to work in a team. I usually optimize my solutions and take the initiative to create a personal project. I like programming, solving many challenges, and getting feedback to improve myself.
 
