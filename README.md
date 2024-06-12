@@ -19,4 +19,5 @@ Passionate about technology and dedicated to software engineering I have experie
 
 # Let's connect 🤝
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/diego-duarte-fern%C3%A1ndez-165445180/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/diego-duarte-fern%C3%A1ndez-165445180/) [![Portfolio](https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white)](https://diegoport.netlify.app/)
+
