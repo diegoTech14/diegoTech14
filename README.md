@@ -7,7 +7,9 @@
 
 <br>
 Passionate about technology and dedicated to software engineering I have experience developing web applications with a strong base on the backend development, I have experience building applications for small companies. My passion lies in optimizing and improving the company's workflow through efficient tech solutions. I'm eager to leverage my skills to contribute to dynamic teams and make a meaningful impact in the tech industry.
+<be>
 
+- 🌱 I’m currently learning **Web 3 and Blockchain Development**
 # 🎯Technologies
 
 **Here you can see some of the technologies that I know**
