@@ -1,6 +1,3 @@
-
-![+506 64832448 ](https://github.com/diegoTech14/diegoTech14/assets/85724318/48f7b585-7b73-41fb-85c6-9e7b89915353)
-
 # 💫 About Me:
 Passionate about technology and dedicated to software engineering I have experience developing web applications with a strong base on the backend development, I have experience building applications for small companies. My passion lies in optimizing and improving the company's workflow through efficient tech solutions. I'm eager to leverage my skills to contribute to dynamic teams and make a meaningful impact in the tech industry.
 
