@@ -4,6 +4,20 @@ Passionate about technology and dedicated to software engineering I have experie
 
 I'm an active Dojo Coding member a Costa Rican blockchain development community ⛩️
 
+<a href="https://www.linkedin.com/in/diego-duarte-fern%C3%A1ndez-165445180/" target="_blank">
+    <img src="https://img.shields.io/badge/linkedin:  Diego-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" style="margin-bottom: 5px;"/>
+</a>
+
+<a href="mailto:diegotech1499@gmail.com" target="_blank">
+   <img src="https://img.shields.io/badge/gmail:  Diego-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
+</a>
+
+
+
+<a href="https://x.com/gioDiego14" target="_blank">
+   <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logoColor=white style="margin-bottom: 5px;" />
+</a>
+
 # 🧑🏽‍💻 About Me:
 🎓 Universidad de Costa Rica
 
