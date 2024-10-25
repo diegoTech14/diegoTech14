@@ -13,7 +13,7 @@ I'm an active Dojo Coding member a Costa Rican blockchain development community 
 
 # 💻 Tech Stack:
 <div align="center">
-  <img src=https://go-skill-icons.vercel.app/api/icons?i=ts,bash,cairo,linux,nodejs,python,git,js,html,css,react,npm,bootstrap,next,/>
+  <img src=https://go-skill-icons.vercel.app/api/icons?i=ts,bash,cairo,linux,nodejs,python,netlify,git,js,html,css,react,npm,bootstrap,next,/>
 </div>
 
 # 📊 GitHub Stats:
