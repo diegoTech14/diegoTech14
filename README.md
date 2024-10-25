@@ -52,6 +52,4 @@ I'm an active Dojo Coding member a Costa Rican blockchain development community 
 </table>
 </div>
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/diego-duarte-fern%C3%A1ndez-165445180/) [![](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/gioDiego14) 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
