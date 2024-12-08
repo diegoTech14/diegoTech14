@@ -25,6 +25,8 @@ I'm an active Dojo Coding member a Costa Rican blockchain development community 
 
 🤝 Open Source Contributor: I believe in the power of community and enjoy contributing to open-source projects that make a difference.
 
+💻 Open Source Maintainer: I am part of the maintainers of the SafeTrust project, check it [here](https://github.com/orgs/safetrustcr/repositories)
+
 # 💻 Tech Stack:
 <div align="center">
   <img src=https://go-skill-icons.vercel.app/api/icons?i=ts,java,bash,cairo,linux,nodejs,python,mysql,git,js,html,css,react,bootstrap,next,/>
