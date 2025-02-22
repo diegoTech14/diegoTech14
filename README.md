@@ -21,7 +21,7 @@ I'm an active Dojo Coding member a Costa Rican blockchain development community 
 # 🧑🏽‍💻 About Me:
 🎓 Universidad de Costa Rica
 
-🚀 WEB 3 enthusiast
+🚀 Blockchain explorer
 
 🤝 Open Source Contributor: I believe in the power of community and enjoy contributing to open-source projects that make a difference.
 
