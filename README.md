@@ -18,6 +18,13 @@ I'm an active Dojo Coding member a Costa Rican blockchain development community 
    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logoColor=white style="margin-bottom: 5px;" />
 </a>
 
+# 🏆 Awards
+
+🥇 SIGCHI Costa Rica First edition - 07/01/2023 to 10/01/2023 📆 | **First Place** [link](https://www.linkedin.com/feed/update/urn:li:activity:7028133487832395776/)
+
+🥇 ETH Pura Vida Second edition - 19/10/2024 to 26/10/2024 📆 | **First Place - Trustless Work Category** [link](https://www.linkedin.com/feed/update/urn:li:activity:7256350126368026624/)
+
+
 # 🧑🏽‍💻 About Me:
 🎓 Universidad de Costa Rica
 
