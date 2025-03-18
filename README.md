@@ -32,7 +32,9 @@ I'm an active Dojo Coding member a Costa Rican blockchain development community 
 
 🤝 Open Source Contributor: I believe in the power of community and enjoy contributing to open-source projects that make a difference.
 
-💻 Open Source Maintainer: I am part of the maintainers of the SafeTrust project, check it [here](https://github.com/orgs/safetrustcr/repositories)
+💻 Open Source Maintainer: 
+
+- Founder of [Tatami](https://github.com/KaizeNodeLabs/Tatami) an open-source software project to acelerate the on-chain gaming development
 
 # 💻 Tech Stack:
 <div align="center">
