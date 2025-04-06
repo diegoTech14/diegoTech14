@@ -46,7 +46,7 @@ I'm an active Dojo Coding member a Costa Rican blockchain development community 
 <table style="border-collapse: collapse; background: none;">
   <tr style="border: none;">
     <td style="border: none; padding: 10px;">
-      <img src="https://github-contributor-stats.vercel.app/api?username=diegoTech14&limit=5&theme=transparent&hide_border=true&combine_all_yearly_contributions=true" alt="Top Contributed Repo" style="border: none;"/>
+      <img src="https://github-contributor-stats.vercel.app/api?username=diegoTech14&limit=5&theme=great-gatsby&hide_border=true&combine_all_yearly_contributions=true" alt="Top Contributed Repo" style="border: none;"/>
     </td>
     <td style="border: none; padding: 10px;">
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=diegoTech14&theme=transparent&hide_border=true" alt="GitHub Streak" style="border: none;"/>
