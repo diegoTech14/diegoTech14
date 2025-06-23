@@ -38,9 +38,14 @@ I'm an active Dojo Coding member a Costa Rican blockchain development community 
 
 # 💻 Tech Stack:
 <div align="center">
-  <img src=https://go-skill-icons.vercel.app/api/icons?i=ts,bash,cairo,linux,nodejs,python,mysql,git,js,html,css,react,bootstrap,docker,/>
+    
+[![My Skills](https://skillicons.dev/icons?i=java,spring,docker,linux,aws,mysql,graphql,supabase,git,github,postgresql,postman,powershell,sqlite,firebase,python,dynamodb,bash,expressjs,javascript,nodejs,html,css,bootstrap&theme=dark&perline=15)](https://skillicons.dev)
+  
+    
 </div>
 
+
+    
 # 📊 GitHub Stats:
 <div align="center">
 <table style="border-collapse: collapse; background: none;">
