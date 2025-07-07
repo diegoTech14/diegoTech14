@@ -39,7 +39,7 @@ I'm an active Dojo Coding member a Costa Rican blockchain development community 
 # 💻 Tech Stack:
 <div align="center">
     
-[![My Skills](https://skillicons.dev/icons?i=java,spring,docker,linux,aws,mysql,graphql,supabase,git,github,postgresql,postman,powershell,sqlite,firebase,python,dynamodb,bash,expressjs,javascript,nodejs,html,css,bootstrap&theme=dark&perline=15)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,cs,php,docker,linux,aws,mysql,graphql,supabase,git,github,postgresql,postman,powershell,sqlite,firebase,python,dynamodb,bash,expressjs,javascript,nodejs,html,css,bootstrap&theme=dark&perline=15)](https://skillicons.dev)
   
     
 </div>
