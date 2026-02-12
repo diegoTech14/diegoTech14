@@ -53,14 +53,6 @@ Passionate about technology and dedicated to software engineering I have experie
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=diegoTech14&theme=great-gatsby&hide_border=true" alt="GitHub Streak" style="border: none;"/>
     </td>
   </tr>
-  <tr style="border: none;">
-    <td style="border: none; padding: 10px;">
-      <img src="https://github-readme-stats.vercel.app/api?username=diegoTech14&theme=great-gatsby&hide_border=true&include_all_commits=false&count_private=false" alt="GitHub Stats" style="border: none;"/>
-    </td>
-    <td style="border: none; padding: 10px;">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=diegoTech14&theme=great-gatsby&hide_border=true&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" style="border: none;"/>
-    </td>
-  </tr>
 </table>
 </div>
 
