@@ -11,11 +11,6 @@ Passionate about technology and dedicated to software engineering I have experie
 </a>
 
 
-
-<a href="https://x.com/gioDiego14" target="_blank">
-   <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logoColor=white style="margin-bottom: 5px;" />
-</a>
-
 # 🏆 Awards
 
 🥇 SIGCHI Costa Rica First edition - 07/01/2023 to 10/01/2023 📆 | **First Place** [link](https://www.linkedin.com/feed/update/urn:li:activity:7028133487832395776/)
