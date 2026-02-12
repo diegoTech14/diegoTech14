@@ -2,8 +2,6 @@
 
 Passionate about technology and dedicated to software engineering I have experience developing web applications with a strong base on the backend development. My passion lies in optimizing and improving the company's workflow through efficient tech solutions. I'm eager to leverage my skills to contribute to dynamic teams and make a meaningful impact in the tech industry. 
 
-I'm an active Dojo Coding member a Costa Rican blockchain development community ⛩️
-
 <a href="https://www.linkedin.com/in/diego-duarte-fern%C3%A1ndez-165445180/" target="_blank">
     <img src="https://img.shields.io/badge/linkedin:  Diego-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" style="margin-bottom: 5px;"/>
 </a>
@@ -27,8 +25,6 @@ I'm an active Dojo Coding member a Costa Rican blockchain development community 
 
 # 🧑🏽‍💻 About Me:
 🎓 Universidad de Costa Rica
-
-🚀 Blockchain explorer
 
 🤝 Open Source Contributor: I believe in the power of community and enjoy contributing to open-source projects that make a difference.
 
