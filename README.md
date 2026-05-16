@@ -23,9 +23,9 @@ Passionate about technology and dedicated to software engineering I have experie
 
 🤝 Open Source Contributor: I believe in the power of community and enjoy contributing to open-source projects that make a difference.
 
-💻 Open Source Maintainer: 
+💻 CEO at Hexalogic: 
 
-- Founder of [Tatami](https://github.com/KaizeNodeLabs/Tatami) an open-source software project to acelerate the on-chain gaming development
+- CEO & Founder of [Hexalogic](https://github.com/Hexalogiccorp) a Software Development agency.
 
 # 💻 Tech Stack:
 <div align="center">
